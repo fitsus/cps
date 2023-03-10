@@ -252,11 +252,6 @@ body {
   border: 2px solid #B8FFEC;
   border-radius: 6px;
 }
-.services-list__item--active {
-  background-color: #fff;
-  border: 2px solid #B8FFEC;
-  border-radius: 6px;
-}
 .services-list__btn {
   display: block;
   white-space: nowrap;
